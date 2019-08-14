@@ -7,6 +7,7 @@
     run.sh: mapreduce运行脚本，需要配置STREAM_JAR_PATH, INPUT_FILE_PATH和OUTPUT_PATH未知的hadoop集群路径
     word: 存储了需要进行统计的单词的数量
 执行指令：
+----
     chomod +x run.sh
     ./run.sh
 
